@@ -95,4 +95,13 @@ a {
     width: 44px;
     height: 44px;
 }
-
+.copyright_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: transparent ;
+    line-height: 3;
+    text-align: center;
+    left: 0;
+}
