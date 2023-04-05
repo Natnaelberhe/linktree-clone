@@ -107,6 +107,6 @@ a {
     left: 0;
   }
 }
-body {
-  overflow: scroll; /* Show scrollbars */
+html {
+  scroll-behavior: smooth;
 }
